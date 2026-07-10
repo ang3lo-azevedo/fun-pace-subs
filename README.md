@@ -1,5 +1,9 @@
 # Fun Pace Subtitle Pipeline
 
+> **This project has moved.** Active development, releases, and subtitle downloads now live at
+> [ang3lo-azevedo/fun-pace-public-subtitles](https://github.com/ang3lo-azevedo/fun-pace-public-subtitles).
+> This repo is kept for history and is no longer updated.
+
 This repo provides a Nix-flake-backed workflow for generating English subtitles for custom-cut One Piece MKVs.
 It is intended to be used alongside the public One Pace subtitle mirror at https://github.com/one-pace/one-pace-public-subtitles as the reference base for naming conventions, terminology, and subtitle style.
 
